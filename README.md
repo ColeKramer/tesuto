@@ -1,2 +1,2 @@
 # tesuto
-This is a testing repository, purely for testing purposes. 
+僕は名前が、コールです。今、SAITの大学で二年生で、コンピューターを勉強しています。日本語の文学にきょうみが有るので、あるひ、大学で日本語と日本の文化を勉強しに行きたいんですよ。僕は一番好きな食べ物がピザです。
